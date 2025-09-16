@@ -1,19 +1,19 @@
-# 🫁 **Lung Cancer Prediction – Data Analytics Project  **
+# 🫁 **Lung Cancer Prediction – Data Analytics Project**
 
-## 📌 **Project Overview ** 
+## 📌 **Project Overview** 
 This project aims to analyze and predict the likelihood of lung cancer based on multiple health, lifestyle, and environmental factors. Using **data preprocessing**, **statistical profiling**, and **visualization techniques**, we explore the relationships between key features such as air pollution, smoking habits, chronic lung disease, and cancer severity levels.  
 The project provides **insights into high-risk factors**, which can help in early intervention and awareness.  
 
 ---
 
-## 🎯 **Objectives  **
+## 🎯 **Objectives**
 1. Identify correlations and patterns between features and lung cancer diagnosis.  
 2. Create clear and meaningful visualizations to communicate findings to stakeholders.  
 3. Determine which features are most important in predicting lung cancer.  
 
 ---
 
-## 📊 **Dataset  **
+## 📊 **Dataset**
 - **Name:** Lung Cancer Prediction (cancer_patient_datasets) 
 - **Size:** 1,000 records  
 - **Features:**  
@@ -29,15 +29,15 @@ The **severity level of lung cancer** is categorized into:
 
 ---
 
-## 🛠️ **Methodology ** 
-### 1️⃣ **Data Preprocessing  **
+## 🛠️ **Methodology** 
+### 1️⃣ **Data Preprocessing**
 - Checked all values to ensure they are within valid ranges (1–9).  
 - Handled missing values (none found in dataset).  
 - Converted categorical variables (Low, Medium, High) into numeric values (1, 2, 3).  
 - Performed **data profiling** to compute mean, standard deviation, min/max values.  
 - Saved processed dataset into `updated_dataset.xlsx`.  
 
-### 2️⃣ **Data Visualization  **
+### 2️⃣ **Data Visualization**
 Visualizations were created to explore:  
 - **Gender Distribution:** Males represent 59.8% of cases, indicating higher risk.  
 - **Age Groups:** Ages 26–48 had the highest number of cases.  
@@ -46,14 +46,14 @@ Visualizations were created to explore:
 - **Medical Symptoms:** Chest pain, dry cough, and chronic lung disease show strong association with high severity cancer cases.  
 Visualizations were built using **Google Looker Studio**, allowing interactive filtering by severity level.  
 
-### 3️⃣ **Feature Analysis  **
+### 3️⃣ **Feature Analysis**
 - Identified top 10 parameters most correlated with lung cancer:  
   **Chronic lung disease, Air pollution, Dust allergies, Occupational hazards, Alcohol use, Dry cough, Chest pain, Snoring, Smoking, Passive smoker**  
 - Found strong links between **Level 7 occupational hazards**, **high dust allergy exposure**, and **high lung cancer severity**.  
 
 ---
 
-## 📈** Key Findings  **
+## 📈** Key Findings**
 - **Males** have a significantly higher risk of lung cancer (59.8%) compared to females (40.2%).  
 - **Air pollution** and **occupational hazards** are leading external contributors.  
 - **Chest pain (Level 7)** is the strongest indicator of high severity lung cancer cases.  
@@ -62,7 +62,7 @@ Visualizations were built using **Google Looker Studio**, allowing interactive f
 
 ---
 
-## 📊 **Google Looker Studio Dashboard  **
+## 📊 **Google Looker Studio Dashboard**
 An interactive dashboard was created to summarize the findings.  
 It includes:  
 - **Gender and Age Distribution Charts** to visualize affected groups.  
