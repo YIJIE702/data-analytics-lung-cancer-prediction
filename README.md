@@ -63,8 +63,13 @@ Visualizations were built using **Google Looker Studio**, allowing interactive f
 ---
 
 ## 📊 **Google Looker Studio Dashboard  **
-Explore the **interactive dashboard** here:  
-🔗 [Lung Cancer Prediction Dashboard](https://lookerstudio.google.com/reporting/82a6d46e-2e57-4604-ac67-3272fa0ce064)  
+An interactive dashboard was created to summarize the findings.  
+It includes:  
+- **Gender and Age Distribution Charts** to visualize affected groups.  
+- **Severity Level Filters** allowing users to view Low, Medium, or High cancer severity insights.  
+- **Bar Charts and Pie Charts** showing patterns in air pollution, smoking, alcohol use, and medical symptoms.  
+- **Feature Comparison Visuals** for identifying which parameters are most strongly associated with lung cancer cases.  
+This dashboard consolidates all analysis results into a single, easy-to-understand view, helping stakeholders quickly interpret the data.   
 
 ---
 
