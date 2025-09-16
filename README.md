@@ -53,7 +53,7 @@ Visualizations were built using **Google Looker Studio**, allowing interactive f
 
 ---
 
-## 📈** Key Findings**
+## 📈**Key Findings**
 - **Males** have a significantly higher risk of lung cancer (59.8%) compared to females (40.2%).  
 - **Air pollution** and **occupational hazards** are leading external contributors.  
 - **Chest pain (Level 7)** is the strongest indicator of high severity lung cancer cases.  
