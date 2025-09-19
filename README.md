@@ -1,4 +1,4 @@
-# 🫁 **Lung Cancer Prediction – Data Analytics Project**
+# **Lung Cancer Prediction – Data Analytics Project**
 
 ## 📌 **Project Overview** 
 This project aims to analyze and predict the likelihood of lung cancer based on multiple health, lifestyle, and environmental factors. Using **data preprocessing**, **statistical profiling**, and **visualization techniques**, we explore the relationships between key features such as air pollution, smoking habits, chronic lung disease, and cancer severity levels.  
@@ -80,4 +80,4 @@ This dashboard consolidates all analysis results into a single, easy-to-understa
 ---
 
 ## 📜 **License**
-This project is licensed under the [MIT License](./LICENSE).
+This project is for educational purposes under NMJ40203 - Data Analytics coursework. You may modify and use this project for learning, but proper credit to the author is appreciated.
