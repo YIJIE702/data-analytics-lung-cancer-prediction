@@ -16,7 +16,7 @@ The project provides **insights into high-risk factors**, which can help in earl
 ## 📌 **Setup Instruction**
 1) Clone the repository
 2) Modify the path of reading the csv file based on your case (cancer_patient_datasets.csv)
-df = pd.read_csv(r"C:\Users\yjtan\Desktop\data-analytics-lung-cancer-prediction\data-analytics-lung-cancer-prediction\cancer_patient_datasets.csv")
+- df = pd.read_csv(r"C:\Users\yjtan\Desktop\data-analytics-lung-cancer-prediction\data-analytics-lung-cancer-prediction\cancer_patient_datasets.csv")
 
 ---
 
